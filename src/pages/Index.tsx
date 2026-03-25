@@ -16,6 +16,12 @@ const projects = [
     url: "https://aidoecompany-uere.vercel.app/",
     tags: ["AI", "SaaS", "Full Stack"],
   },
+  {
+    title: "MicoVell",
+    description: "A wellness-focused e-commerce website for premium Cordyceps militaris products, highlighting benefits like immune support, heart health, and energy.",
+    url: "https://tharunkumarpogula.github.io/MicoVell/",
+    tags: ["E-Commerce", "Wellness", "Frontend"],
+  },
 ];
 
 const aboutCards = [
